@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
 
 	int p = 0;
 //threadz[0]->tstart
-       pthread_t  main_thread;
+//       pthread_t  main_thread;
 	
 	
 
@@ -151,7 +151,7 @@ startClock();
 	pthread_join(*((* threadz)[count-2]).ref,NULL);
 	pthread_join(*((* threadz)[count-1]).ref,NULL);
 
-	pthread_join(main_thread,NULL);
+//	pthread_join(main_thread,NULL);
 //printf("%s \n","Ooops");	
 
 // *** WHy this solves the issue ? 
