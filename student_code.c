@@ -50,11 +50,10 @@ int main(int argc, char *argv[])
 
 	int p = 0;
 //threadz[0]->tstart
-<<<<<<< HEAD:211438736_a02.c
+//<<<<<<< HEAD:211438736_a02.c
 //       pthread_t  main_thread;
-=======
-  //     pthread_t  main_thread;
->>>>>>> 8602e5365f9d615d6415d32194b32909662097c7:student_code.c
+//=======
+  //     pthread_t  main_thread;/>>>>>>> 8602e5365f9d615d6415d32194b32909662097c7:student_code.c
 	
 	
 
